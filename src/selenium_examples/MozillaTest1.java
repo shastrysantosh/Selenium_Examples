@@ -4,7 +4,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 
 
-public class MozillaTest {
+public class MozillaTest1 {
 
 	public static void main(String[] args) {
 		
